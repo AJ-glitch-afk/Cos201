@@ -1,3 +1,6 @@
+Awodele Joshua Gbenga 
+25/17293
+Computer science 
 # COS 201 – Computer Programming I
 ## Week 3 Assignment
 
